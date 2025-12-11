@@ -1,2 +1,12 @@
-# Sales_Insights_Analysis
-A complete end-to-end Sales Insights Project built using Python (Pandas) for data cleaning, MySQL for analytical queries, and Power BI for an interactive dashboard. This project helps business stakeholders understand sales performance, top products, top cities, monthly trends, and overall revenue patterns.
+# Retail Sales Performance Report
+
+Analyze retail sales data to identify trends, top products, and city-wise performance, helping businesses make data-driven decisions.
+
+*Tools:* Python, Pandas, NumPy, Matplotlib, sql, Power bi.
+
+*Key Highlights:*
+- Monthly and seasonal sales trends
+- Top-performing products and categories
+- City-wise sales analysis
+- Visual dashboards for insights
+
